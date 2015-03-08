@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+
+Author      : Piyoros Vephula
+Date        : 15/2/2015
+Course      : CS211D
+Homework    : 3
+File Name   : strings.xml
+
+-->
+
+<resources>
+
+    <string name="app_name">TempConverter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="instruction">Choose the unit you want to convert.</string>
+    <string name="text_hint">Please type the temperature.</string>
+    <string name="f_to_c">F° to C°</string>
+    <string name="c_to_f">C° to F°</string>
+
+</resources>

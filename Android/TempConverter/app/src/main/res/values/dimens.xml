@@ -1,0 +1,17 @@
+<!--
+
+Author      : Piyoros Vephula
+Date        : 15/2/2015
+Course      : CS211D
+Homework    : 3
+File Name   : dimens.xml
+
+-->
+
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="ins_text">32sp</dimen>
+    <dimen name="result_text">64sp</dimen>
+</resources>
